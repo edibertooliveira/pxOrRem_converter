@@ -57,7 +57,7 @@ Este projeto foi feito usando as seguintes tecnologias:
   <li>Trabalho com NodeJS.</li><li>Uso do readline</li>
 </ul>
 
-> Status: completo.
+> Status: em processo.
 
 ### :construction_worker: Como executar
 
