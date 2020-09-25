@@ -31,12 +31,12 @@
    <img src="./.github/Screenshot_3.png" width="250px" height="400px">
 </div>
 
-> :rocket: Criando meus proprios modelos de README.md.
+> :rocket: Criando meus conversor px para rem e rem para px.
 ### :pushpin: Índice
 
 * [Tecnologias](#computer-Tecnologias)
-* [Como pode ajudar?](#rocket-Recursos)
-* [Coisas interessantes abordadas neste projeto](#Covered-Abordados-neste-projeto)
+* [Recursos](#rocket-Recursos)
+* [Coisas interessantes abordadas neste projeto](#Abordados-neste-projeto)
 * [Como executar](#construction_worker-Como-executar)
 * [Encontrou um bug? Faltando um recurso específico?](#bug-issues)
 * [Licença](#closed_book-licença)
@@ -44,17 +44,17 @@
 ### :computer: Tecnologias
 Este projeto foi feito usando as seguintes tecnologias:
 <ul>
-  <li>HTML</li><li>CSS</li><li>JavaScript</li>
+  <li>NodeJS</li><li>JavaScript</li>
 </ul>
 
 ### :rocket: Recursos
 <ul>
-   <li>Criado para padronizar projetos em grande escala, com um estilo moderno e avançado que deixa o README.md interesante de se ver.</li>
+   <li>Criei para converter rapidamente px para rem e rem para px direto no Terminal, economizando tempo em projetos futuros no Front-end.</li>
 </ul>
 
-### :Covered: Abordados neste projeto
+### Abordados neste projeto
 <ul>
-<li>Trabalhar com node.</li><li>Usando readline e fs.</li><li>Formular um template.</li><li>Uso de metodos split e replace.</li>
+  <li>Trabalho com NodeJS.</li><li>Uso do readline</li>
 </ul>
 
 > Status: completo.
