@@ -62,10 +62,18 @@ Este projeto foi feito usando as seguintes tecnologias:
 ### :construction_worker: Como executar
 
 > ps: É necessario ter o nodejs e git instalado.
-* Abra o terminal do seu computador. Se estiver no Windows, pode ser o Prompt de Comando ou PowerShell.
-* Altere o diretório de trabalho atual para o local em que deseja ter o código do módulo salvo no seu computador. 
-* Faça um clone desse repositório rodando: git clone https://github.com/edibertooliveira/pxOrRem_converter.git; 
-* Entre na pasta rodando pelo terminal: cd pxOrRem_converter;
+* Abra o terminal do seu computador. Se estiver no Windows, pode ser o Prompt de Comando ou PowerShell.  
+* Altere o diretório de trabalho atual para o local em que deseja ter o código do módulo salvo no seu computador.
+```
+# Faça um clone desse repositório rodando:
+git clone https://github.com/edibertooliveira/pxOrRem_converter.git
+
+# Entre na pasta rodando pelo terminal: 
+cd pxOrRem_converter;
+
+# execute pelo terminal: 
+npm start;
+```
 
 ### :bug: Issues
 Sinta-se à vontade para **registrar um novo problema** com o respectivo título e descrição no [pxOrRem_converter](https://github.com/edibertooliveira/pxOrRem_converter/issues) repositório. Se você já encontrou uma solução para o seu problema, **adoraria revisar sua pull request**!
