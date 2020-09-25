@@ -1,0 +1,11 @@
+{
+  "name": "pxorrem_converter",
+  "version": "1.0.0",
+  "description": "I created to quickly convert px to rem and rem to px right in the Terminal, thus saving time in future projects.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Ediberto Oliveira",
+  "license": "MIT"
+}
